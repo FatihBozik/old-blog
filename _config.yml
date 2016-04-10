@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Fatih Bozik
+tagline:          'Blog Yazılarım'
+description:      'Kategoriler'
+url:               http://fatihbozik.github.io/
+baseurl:           /old-blog
+excerpt_separator: '<br>'
+
+author:
+  name:           'Fatih Bozik'
+  url:            http://fatihbozik.com
+
+social:
+  disqus:		  fatihbozik
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
+
